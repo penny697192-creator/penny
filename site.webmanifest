@@ -1,0 +1,10 @@
+{
+  "name": "美国硕士申请知识库",
+  "short_name": "美研知识库",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#14231f",
+  "description": "2027 U.S. News 美国硕士申请学习知识库"
+}
